@@ -1,3 +1,3 @@
-non-published markdown file for testing purposes only
+# non-published markdown file for testing purposes only
 
-	\frac{n!}{k!(n-k)!}
+	3*\frac{2}{4}
